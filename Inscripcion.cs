@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace simulacroExamen
 {
-    internal class Inscripcion
+    public class Inscripcion
     {
         string dpiestudiante;
         string codigotaller;

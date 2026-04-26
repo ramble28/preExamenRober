@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace simulacroExamen
 {
-    internal class Reporte
+    public class Reporte
     {
         string nombre;
         string taller;

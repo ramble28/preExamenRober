@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace simulacroExamen
 {
-    internal class Taller
+    public class Taller
     {
         string codigo;
         string nombretaller;

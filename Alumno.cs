@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace simulacroExamen
 {
-    internal class Alumno
+    public class Alumno
     {
         string dpi;
         string nombre;
